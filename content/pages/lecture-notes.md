@@ -4,31 +4,333 @@ title: Lecture Notes
 uid: d8acb56e-47d1-9772-87c7-49ed0d78d963
 ---
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Introduction and overview | ([PDF]({{< baseurl >}}/resources/lec1)) |
-| 2 | Institutions I: political and analytical organizations | ([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2)) |
-| 3 | Review of the mathematics of climate analysis | ([PDF]({{< baseurl >}}/resources/lec3)) |
-| 4 | Climate I: past climate, and gases, aerosols and radiation | ([PDF - 1.3 MB]({{< baseurl >}}/resources/lec4)) |
-| 5 | Economics primer | ([PDF]({{< baseurl >}}/resources/lec5)) |
-| 6 | Climate II: dynamics of the atmosphere and oceans | ([PDF - 1.1 MB]({{< baseurl >}}/resources/lec6)) |
-| 7 | Economics of the global commons | ([PDF]({{< baseurl >}}/resources/lec7)) |
-| 8 | Economics I: economic growth, technology and greenhouse gas emissions | ([PDF]({{< baseurl >}}/resources/lec8)) |
-| 9 | Institutions II: the international climate negotiations | ([PDF]({{< baseurl >}}/resources/lec9)) |
-| 10 | Economics II: the economics of greenhouse gas emissions control | ([PDF]({{< baseurl >}}/resources/lec10)) |
-| 11 | Introduction to the Toy Integrated Global System Model | &nbsp; |
-| 12 | Climate III: interaction of atmosphere, oceans and biosphere | ([PDF - 1.2 MB]({{< baseurl >}}/resources/lec12)) |
-| 13 | Analysis of the benefits of greenhouse gas mitigation | ([PDF]({{< baseurl >}}/resources/lec13)) |
-| 14 | Economics III: climate policy analysis | ([PDF]({{< baseurl >}}/resources/lec14)) |
-| 15 | Emissions trading and tax systems | ([PDF]({{< baseurl >}}/resources/lec15)) |
-| 16 | Climate machine IV: regional impacts of climate change | ([PDF - 3.2 MB]({{< baseurl >}}/resources/lec16)) |
-| 17 | Review of methods of uncertainty analysis | ([PDF]({{< baseurl >}}/resources/lec17)) |
-| 18 | Integrated assessment I: sensitivity and uncertainty analysis | ([PDF]({{< baseurl >}}/resources/lec18)) |
-| 19 | Sea level rise and adaptation | ([PDF - 2.6 MB]({{< baseurl >}}/resources/lec19)) |
-| 20 | Methods for decision under uncertainty | ([PDF]({{< baseurl >}}/resources/lec20)) |
-| 21 | Integrated assessment II: deciding global effort and burden shares | &nbsp; |
-| 22 | Climate change and the Arctic region | &nbsp; |
-| 23 | Climate V: unresolved problems in climate analysis | ([PDF - 2.9 MB]({{< baseurl >}}/resources/lec23)) |
-| 24 | Discussion of homework sets and the policy exercise | &nbsp; |
-| 25 | Student team presentations | &nbsp; |
-| 26 | Final summary and discussion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Institutions I: political and analytical organizations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.0 MB]({{< baseurl >}}/resources/lec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of the mathematics of climate analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Climate I: past climate, and gases, aerosols and radiation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3 MB]({{< baseurl >}}/resources/lec4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Economics primer
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Climate II: dynamics of the atmosphere and oceans
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.1 MB]({{< baseurl >}}/resources/lec6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Economics of the global commons
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Economics I: economic growth, technology and greenhouse gas emissions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Institutions II: the international climate negotiations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Economics II: the economics of greenhouse gas emissions control
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Toy Integrated Global System Model
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Climate III: interaction of atmosphere, oceans and biosphere
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.2 MB]({{< baseurl >}}/resources/lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of the benefits of greenhouse gas mitigation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Economics III: climate policy analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Emissions trading and tax systems
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Climate machine IV: regional impacts of climate change
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 3.2 MB]({{< baseurl >}}/resources/lec16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Review of methods of uncertainty analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated assessment I: sensitivity and uncertainty analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Sea level rise and adaptation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.6 MB]({{< baseurl >}}/resources/lec19))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for decision under uncertainty
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated assessment II: deciding global effort and burden shares
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Climate change and the Arctic region
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Climate V: unresolved problems in climate analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.9 MB]({{< baseurl >}}/resources/lec23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of homework sets and the policy exercise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Student team presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final summary and discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
