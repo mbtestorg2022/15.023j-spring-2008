@@ -7,6 +7,7 @@ description: "Problem set on global policy analysis. This homework is divided in
   \ of the climate impacts of the business-as-usual case."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/fc6724fc5ffdfeb5e9398c1c202549f8_assn4.pdf
 file_type: application/pdf
+parent_uid: 42f5cdfb-3177-00d3-d5d0-f13937587177
 resourcetype: Document
 title: 'Problem Set #4'
 uid: fc6724fc-5ffd-feb5-e939-8c1c202549f8
