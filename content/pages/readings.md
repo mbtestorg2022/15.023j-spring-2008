@@ -42,9 +42,9 @@ Institutions I: political and analytical organizations
 {{< tdopen >}}
 
 
-_Uniting on Climate: A Guide to the Climate Change Convention and the Kyoto Protocol_. United Nations Framework Convention on Climate Change (UNFCCC), 2007, pp. 7-38. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://unfccc.int/resource/docs/publications/unitingonclimate_eng.pdf))
+_Uniting on Climate: A Guide to the Climate Change Convention and the Kyoto Protocol_. United Nations Framework Convention on Climate Change (UNFCCC), 2007, pp. 7-38. ([PDF - 3.7 MB](http://unfccc.int/resource/docs/publications/unitingonclimate_eng.pdf))
 
-Summary for Policymakers, _Climate Change 2007: Synthesis Report_. Intergovernmental Panel on Climate Change (IPCC), Fourth Assessment Report. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr_spm.pdf))
+Summary for Policymakers, _Climate Change 2007: Synthesis Report_. Intergovernmental Panel on Climate Change (IPCC), Fourth Assessment Report. ([PDF - 1.9 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr_spm.pdf))
 
 
 {{< tdclose >}}
@@ -76,7 +76,7 @@ Karl, Thomas R., and Kevin E. Trenberth. "Modern Global Climate Change." _Scienc
 
 Prinn, Ronald. "Non-CO2 Greenhouse Gases." In _The Global Carbon Cycle: Integrating Humans, Climate, and the Natural World_. Edited by Christopher Field and Michael Raupach. Washington, DC: Island Press, 2004. ISBN: 9781559635271.
 
-Summary for Policymakers, _Climate Change 2007: The Physical Science Basis_. Intergovernmental Panel on Climate Change, Working Group I, Fourth Assessment Report, pp. 1-17. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf))
+Summary for Policymakers, _Climate Change 2007: The Physical Science Basis_. Intergovernmental Panel on Climate Change, Working Group I, Fourth Assessment Report, pp. 1-17. ([PDF - 3.7 MB](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-spm.pdf))
 
 Andreae, Meinrat, Chris Jones, and Peter Cox. "Strong Present-Day Aerosol Cooling Implies a Hot Future." _Nature_ 435 (2005): 1187-1190.
 
@@ -132,7 +132,7 @@ Economics of the global commons
 {{< tdopen >}}
 
 
-_The Economics of Climate Change: A Primer_. US Congressional Budget Office, 2003, chapter 3. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB](http://www.cbo.gov/ftpdocs/41xx/doc4171/04-25-ClimateChange.pdf))
+_The Economics of Climate Change: A Primer_. US Congressional Budget Office, 2003, chapter 3. ([PDF - 2.9 MB](http://www.cbo.gov/ftpdocs/41xx/doc4171/04-25-ClimateChange.pdf))
 
 Callan, Scott, and Janet Thomas. _Environmental Economics and Management: Theory, Policy and Applications_. 4th ed. Florence, KY: South-Western, 2006, chapter 3. ISBN: 9780324320671.
 
@@ -150,7 +150,7 @@ Economics I: economic growth, technology and greenhouse gas emissions
 {{< tdopen >}}
 
 
-_The Economics of Climate Change: A Primer_. US Congressional Budget Office, 2003, chapters 1, 3, and 4. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB](http://www.cbo.gov/ftpdocs/41xx/doc4171/04-25-ClimateChange.pdf))
+_The Economics of Climate Change: A Primer_. US Congressional Budget Office, 2003, chapters 1, 3, and 4. ([PDF - 2.9 MB](http://www.cbo.gov/ftpdocs/41xx/doc4171/04-25-ClimateChange.pdf))
 
 Weyant, J. "Economic Models: How They Work and Why Their Results Differ." In _Climate Change: Science, Strategies, and Solutions_. Edited by Eileen Clausen. Washington, DC: Pew Center on Global Climate Change, 2001. ISBN: 9789004122765.
 
@@ -194,11 +194,11 @@ Pizer, William. "Choosing Price or Quantity Controls for Greenhouse Gases." In _
 
 McKinsey Greenhouse Gas Reports: McKinsey has several different reports related to greenhouse gas reduction. This site has related links and full reports: [McKinsey & Company](http://www.mckinsey.com/clientservice/ccsi/greenhousegas.asp)
 
-Executive Summary, _Reducing U.S. Greenhouse Gas Emissions: How Much at What Cost?_ McKinsey & Company, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.mckinsey.com/clientservice/ccsi/pdf/Greenhouse_Gas_Emissions_Executive_Summary.pdf))
+Executive Summary, _Reducing U.S. Greenhouse Gas Emissions: How Much at What Cost?_ McKinsey & Company, 2007. ([PDF](http://www.mckinsey.com/clientservice/ccsi/pdf/Greenhouse_Gas_Emissions_Executive_Summary.pdf))
 
 Jaffe, Adam, Richard Newell, and Robert Stavins. "Energy-Efficient Technologies and Climate Change Policies: Issues and Evidence." In _Climate Change Economics and Policy: An RFF Anthology_. Washington, DC: Resources for the Future, 2001. ISBN: 9781891853043.
 
-Babiker, Mustafa, John Reilly, and Henry Jacoby. "The Kyoto Protocol and Developing Countries." MIT Joint Program on the Science and Policy of Global Change, Report No. 56, October 1999. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt56.pdf))
+Babiker, Mustafa, John Reilly, and Henry Jacoby. "The Kyoto Protocol and Developing Countries." MIT Joint Program on the Science and Policy of Global Change, Report No. 56, October 1999. ([PDF](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt56.pdf))
 
 
 {{< tdclose >}}
@@ -228,7 +228,7 @@ Climate III: interaction of atmosphere, oceans and biosphere
 
 Prinn, Ronald, et al. "Integrated Global System Model for Climate Policy Assessment: Feedbacks and Sensitivity Studies." _Climatic Change_ 41 (1999): 469-546, sections 1, 2 and 3.
 
-Sokolov, A. P., et al. "The MIT Integrated Global System Model (IGSM) Version 2: Model Description and Baseline Evaluation." MIT Joint Program on the Science and Policy of Global Change, Report No. 124, July 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB](http://mit.edu/globalchange/www/MITJPSPGC_Rpt124.pdf))
+Sokolov, A. P., et al. "The MIT Integrated Global System Model (IGSM) Version 2: Model Description and Baseline Evaluation." MIT Joint Program on the Science and Policy of Global Change, Report No. 124, July 2005. ([PDF - 1.4 MB](http://mit.edu/globalchange/www/MITJPSPGC_Rpt124.pdf))
 
 
 {{< tdclose >}}
@@ -266,7 +266,7 @@ Economics III: climate policy analysis
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640541) Nordhaus, William, and Joseph Boyer. [_Warming the World: Economic Models of Global Warming_](https://mitpress.mit.edu/9780262640541). Cambridge, MA: MIT Press, 2003, chapter 7. ISBN: 9780262640541.
 
-Executive Summary, _Scenarios of Greenhouse Gas Emissions and Anthropogenic Concentrations_. U.S. Climate Change Science Program, Synthesis and Assessment Product 2.1a, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://science.energy.gov/~/media/ber/pdf/Sap_2_1a_final_all.pdf
+Executive Summary, _Scenarios of Greenhouse Gas Emissions and Anthropogenic Concentrations_. U.S. Climate Change Science Program, Synthesis and Assessment Product 2.1a, 2007. ([PDF](http://science.energy.gov/~/media/ber/pdf/Sap_2_1a_final_all.pdf
 ))
 
 Toth, Ferenc, et al. "Exploring Options for Global Climate Policy: A New Analytical Framework." _Environment_ 44 (2002): 23-33.
@@ -285,7 +285,7 @@ Emissions trading and tax systems
 {{< tdopen >}}
 
 
-Ellerman, A. Denny, Paul Joskow, and David Harrison, Jr. "Emissions Trading in the U.S.: Experience, Lessons and Considerations for Greenhouse Gases." Washington, DC: Pew Center for Global Climate Change. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/globalchange/www/PewCtr_MIT_Rpt_Ellerman.pdf))
+Ellerman, A. Denny, Paul Joskow, and David Harrison, Jr. "Emissions Trading in the U.S.: Experience, Lessons and Considerations for Greenhouse Gases." Washington, DC: Pew Center for Global Climate Change. ([PDF](http://web.mit.edu/globalchange/www/PewCtr_MIT_Rpt_Ellerman.pdf))
 
 Paltsev, Sergey, et al. "Assessment of U.S. GHG Cap-and-Trade Proposals." _Climate Policy_ 8 (2008): 395-420.
 
@@ -309,7 +309,7 @@ Talbot, David. "Planning for a Climate-Changed World." _Technology Review_, May-
 
 National Assessment Synthesis Team, U.S. Global Change Research Program. _Climate Change Impacts on the United States_. Cambridge, UK: Cambridge University Press, 2001, pp. 1-37. ISBN: 9780521000758.
 
-Summary for Policymakers, _Climate Change 2007: Impacts, Adaptation and Vulnerability_. Intergovernmental Panel on Climate Change, Working Group II, Fourth Assessment Report. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://klima.hr/razno/news/IPCCWG2_0407.pdf))
+Summary for Policymakers, _Climate Change 2007: Impacts, Adaptation and Vulnerability_. Intergovernmental Panel on Climate Change, Working Group II, Fourth Assessment Report. ([PDF](http://klima.hr/razno/news/IPCCWG2_0407.pdf))
 
 Stroeve, Julienne, et al. "Arctic Sea Ice Extent Plummets in 2007." _EOS Transactions of the American Geophysical Union_ 89 (2008): 13-14.
 
